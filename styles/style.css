@@ -8,9 +8,14 @@ body{
     background-color: #ffffcc;
     padding: 0 20px 20px 20px;
     border: 2px solid white;
-    text-align: center;
 }
 
 h1{
     color: #002b80;
+    text-align: center;
+}
+
+p{
+    color: #002b80;
+    text-align: center;
 }
